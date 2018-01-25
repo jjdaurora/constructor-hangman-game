@@ -1,2 +1,2 @@
-# constructor-hangman-game
-constructor-hangman-game
+# constructor-hangman
+A hangman game played on the command line.
